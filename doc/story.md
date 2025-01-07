@@ -1,16 +1,22 @@
-# Complie
+# source code
+
+# build
 
 doc/build.md
 
-# model
+# run
 
 [prithivMLmods/Llama-Deepsync-1B-GGUF](https://huggingface.co/prithivMLmods/Llama-Deepsync-1B-GGUF)
 
-# Run model
-
 ./build/bin/llama-cli -m models/Llama-Deepsync-1B.Q4_K_M.gguf -p "what's your name"
 
-# Specific parameter
+# modify
+
+## show block process entry
+
+## train
+
+## Specific parameter
 
 cd /home/xunchan/Workspace/llama.xunchan/gguf-py/examples
 
@@ -44,4 +50,6 @@ llama
 
 ## Write it precifily
 
-## 
+# doc
+
+# done
